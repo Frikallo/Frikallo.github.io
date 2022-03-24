@@ -8,9 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Mar 2022 11:00:00 -0500</lastBuildDate><atom:link href="https://frikallo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>YAKbot</title>
+      <title>Eval 22</title>
       <link></link>
       <pubDate>Thu, 24 Mar 2022 11:00:00 -0500</pubDate>
+      
+      <guid></guid>
+      <description>We are proud to announce our new project Eval 22, a free and publicly available framework to test autoregressive language models!</description>
+    </item>
+    
+    <item>
+      <title>YAKbot</title>
+      <link></link>
+      <pubDate>Wed, 23 Mar 2022 11:00:00 -0500</pubDate>
       
       <guid></guid>
       <description>YAKbot, a complex, multipurpose AI Discord bot, is now available on Github, After 7 months of development YAKbot is open sourced!</description>
@@ -19,19 +28,10 @@
     <item>
       <title>AetherAI</title>
       <link></link>
-      <pubDate>Wed, 23 Mar 2022 11:00:00 -0500</pubDate>
-      
-      <guid></guid>
-      <description>Announcing AetherAI, an orginiasation of future AI researchers and developers.</description>
-    </item>
-    
-    <item>
-      <title>Eval 22</title>
-      <link></link>
       <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
       
       <guid></guid>
-      <description>We are proud to announce our new project Eval 22, a free and publicly available framework to test autoregressive language models!</description>
+      <description>Announcing AetherAI, an orginiasation of future AI researchers and developers.</description>
     </item>
     
     <item>
