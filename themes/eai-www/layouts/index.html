@@ -1,0 +1,10 @@
+{{- define "main" -}}
+{{ partial "home_info.html" . }}
+
+
+{{ with .GetPage "/announcements" }}
+{{ .Render "list-small" }}
+{{ end }}
+{{ with .GetPage "/projects" }}{{ .Render "list-small" }}{{ end }}
+
+{{ end }}{{- /* end main */ -}}

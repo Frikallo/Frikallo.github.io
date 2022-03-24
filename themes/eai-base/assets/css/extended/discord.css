@@ -1,0 +1,197 @@
+article.discord {
+  background-color: #36393f;
+  border-radius: var(--radius);
+  padding-top: 1px;
+  padding-bottom: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  color-scheme: dark;
+}
+
+div.chat-message {
+  line-height: 1;
+  text-rendering: optimizeLegibility;
+  -webkit-box-direction: normal;
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  outline: 0;
+  position: relative;
+  word-wrap: break-word;
+  -webkit-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+  -webkit-box-flex: 0;
+  flex: 0 0 auto;
+  padding-right: 48px!important;
+  padding-top: .125rem;
+  padding-bottom: .125rem;
+  padding-left: 72px;
+  min-height: 2.75rem;
+  margin-top: 1.0625rem;
+}
+div.chat-message:not(div.groupStart) {
+  margin-top: 0; min-height: 0;
+}
+
+div.chat-message > div.contents {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  position: static;
+  margin-left: 0;
+  padding-left: 0;
+  text-indent: 0;
+}
+
+div.chat-message > div.contents > img.avatar {
+  position: absolute;
+  left: 16px;
+  margin-top: calc(4px - .125rem);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-box-flex: 0;
+  flex: 0 0 auto;
+  z-index: 1;
+  text-indent: -9999px;
+  pointer-events: auto;
+}
+
+div.chat-message > div.contents > div.header {
+  word-wrap: break-word;
+  text-indent: 0;
+  font-size: 100%;
+  display: block;
+  position: relative;
+  line-height: 1.375rem;
+  min-height: 1.375rem;
+  color: #72767d;
+  white-space: break-spaces;
+  overflow: hidden;
+}
+
+div.chat-message > div.contents > div.header > span.headerText {
+  word-wrap: break-word;
+  text-indent: 0;
+  line-height: 1.375rem;
+  color: white;
+  padding: 0;
+  border: 0;
+  font-size: 1rem;
+  vertical-align: baseline;
+  margin-right: .25rem;
+}
+
+div.chat-message > div.contents > div.header > span.timestamp {
+  display: inline-block;
+  height: 1.25rem;
+  cursor: default;
+  pointer-events: none;
+  font-weight: 500;
+  margin-left: .25rem;
+  font-size: 0.75rem;
+  line-height: 1.375rem;
+  color: #72767d;
+  vertical-align: baseline;
+}
+
+div.chat-message > div.contents > div.messageContent {
+  font-size: 1rem;
+  line-height: 1.375rem;
+  white-space: break-spaces;
+  color: #dcddde;
+  font-weight: 400;
+  position: relative;
+  overflow: hidden;
+  margin-left: -72px;
+  padding-left: 72px;
+}
+
+div.chat-message > div.contents > div.messageContent a{
+  color: #00aff4;
+  word-break: break-word;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.mention{
+  white-space: nowrap;
+  font-size: 100%;
+  border-radius: 3px;
+  padding: 0 2px;
+  font-weight: 500;
+  unicode-bidi: plaintext;
+  position: relative;
+  background: hsla(235,85.6%,64.7%,0.15);
+  color: hsl(235,66.7%,58.8%);
+}
+
+body.dark .mention,
+div.chat-message > div.contents > div.messageContent .mention{
+  background: hsla(235,85.6%,64.7%,0.3);
+  color: hsl(236,83.3%,92.9%);
+}
+
+div.chat-message > div.contents > div.messageContent blockquote {
+  border-left: 4px solid #4f545c;
+  padding: 0 8px 0 12px;
+  margin: 0;
+  text-indent: 0;
+}
+
+div.chat-message > div.contents > div.messageContent code {
+  line-height: 1.125rem;
+  background: #2f3136;
+  width: auto;
+  height: auto;
+  padding: .2em;
+  margin: -.2em 0;
+  border-radius: 3px;
+  font-size: 85%;
+  font-family: Consolas,Andale Mono WT,Andale Mono,Lucida Console,Lucida Sans Typewriter,DejaVu Sans Mono,Bitstream Vera Sans Mono,Liberation Mono,Nimbus Mono L,Monaco,Courier New,Courier,monospace;
+  text-indent: 0;
+  border: none;
+  white-space: pre-wrap;
+}
+
+div.chat-message > div.container {
+  width: 100%;
+  padding-top: 2px;
+  max-width: 400px;
+}
+
+span.role-none {
+  font-weight: 500;
+}
+
+span.role-art {
+  color:rgb(233, 30, 99);
+  font-weight: 500;
+}
+
+span.role-regular {
+  color:rgb(31, 139, 76);
+  font-weight: 500;
+}
+
+span.role-level5 {
+  color:rgb(52,152,219);
+  font-weight: 500;
+}
+
+span.role-mathemagician {
+  color: rgb(46,204,113);
+  font-weight: 500;
+}
+
+span.role-O5 {
+  color:rgb(132,61,164);
+  font-weight: 500;
+}
