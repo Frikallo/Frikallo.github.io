@@ -1,7 +1,7 @@
-baseURL = "https://blog.eleuther.ai/"
+baseURL = "https://frikallo.github.io/blog/"
 languageName = "English"
 languageCode = "en-us"
-title = "EleutherAI Blog"
+title = "AetherAI Blog"
 theme = ["eai-base","eai-blog"]
 contentDir = "content-blog"
 publishDir="public-blog"
@@ -9,11 +9,11 @@ googleAnalytics = "G-9KCLV8BK53"
 [params]
     env = "production"
     [params.organization]
-        name="EleutherAI"
-        baseURL="https://eleuther.ai/"
+        name="AetherAI"
+        baseURL="https://frikallo.github.io/"
         description="A decentralized grassroots collective of volunteer researchers, engineers, and developers focused on AI alignment, scaling, and open source AI research."
-        email="contact@eleuther.ai"
-        sameAs="https://github.com/EleutherAI"
+        email="contact@aether.ai"
+        sameAs="https://github.com/AetherAI"
         foundingDate="2020-07-02"
         logo="https://eleuther.ai/images/promo.png"
     ShowAllPagesInArchive = true
@@ -36,15 +36,15 @@ googleAnalytics = "G-9KCLV8BK53"
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "https://eleuther.ai/"
+    url = "https://frikallo.github.io/"
     weight = 1
   [[menu.main]]
     name = "About"
-    url = "https://eleuther.ai/about/"
+    url = "https://frikallo.github.io/about/"
     weight = 2
   [[menu.main]]
     name = "FAQ"
-    url = "https://eleuther.ai/faq/"
+    url = "https://frikallo.github.io/faq/"
     weight = 3
   [[menu.main]]
     name = "Blog"
@@ -52,5 +52,5 @@ googleAnalytics = "G-9KCLV8BK53"
     weight = 4
   [[menu.main]]
     name = "Publications"
-    url = "https://eleuther.ai/publications/"
+    url = "https://frikallo.github.io/publications/"
     weight = 5
