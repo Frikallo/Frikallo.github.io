@@ -2,7 +2,7 @@
 title: "YAKbot"
 layout: page
 cover:
-    image: YAKbot.jpg
+    image: YAKbot.png
     relative: True
 hideMeta: True
 status: "Completed"
