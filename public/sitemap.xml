@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frikallo.github.io/</loc>
+    <lastmod>2022-03-23T11:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://frikallo.github.io/about/</loc>
     <lastmod>2022-02-02T11:00:00-05:00</lastmod>
   </url><url>
     <loc>https://frikallo.github.io/faq/</loc>
-    <lastmod>2022-02-02T11:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://frikallo.github.io/</loc>
     <lastmod>2022-02-02T11:00:00-05:00</lastmod>
   </url><url>
     <loc>https://frikallo.github.io/publications/</loc>
@@ -28,8 +28,6 @@
     <loc>https://frikallo.github.io/domain/disord-bot/</loc>
   </url><url>
     <loc>https://frikallo.github.io/domain/</loc>
-  </url><url>
-    <loc>https://frikallo.github.io/domain/image-synthasis/generation/</loc>
   </url><url>
     <loc>https://frikallo.github.io/projects/</loc>
   </url><url>

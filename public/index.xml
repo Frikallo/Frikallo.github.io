@@ -6,7 +6,16 @@
     <description>Recent content in Home on AetherAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 11:00:00 -0500</lastBuildDate><atom:link href="https://frikallo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 11:00:00 -0500</lastBuildDate><atom:link href="https://frikallo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AetherAI</title>
+      <link></link>
+      <pubDate>Wed, 23 Mar 2022 11:00:00 -0500</pubDate>
+      
+      <guid></guid>
+      <description>Announcing AetherAI, an orginiasation of future AI researchers and developers.</description>
+    </item>
+    
     <item>
       <title>About Us</title>
       <link>https://frikallo.github.io/about/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://frikallo.github.io/faq/</guid>
       <description>The official EleutherAI FAQ, covering every question you probably have about EleutherAI.</description>
-    </item>
-    
-    <item>
-      <title>GPT-NeoX</title>
-      <link></link>
-      <pubDate>Wed, 02 Feb 2022 11:00:00 -0500</pubDate>
-      
-      <guid></guid>
-      <description>Announcing GPT-NeoX-20B, a 20 billion parameter model trained in collaboration with CoreWeave.</description>
     </item>
     
     <item>
@@ -52,60 +52,6 @@
       <description>Joining EleutherAI is as simple as joining us on Discord and picking a project to contribute to.
 As an independent organization, we are dependent upon donations to power our compute. If you have a very large quantity of compute or compute credits, please contact us directly at contact[at]eleuther.ai
 Contributors are traditionally expected to have at some experience with machine learning and data science. While there is some work for people without that skillset, we are a DL research lab and therefore most work involves writing, training, and inferencing neural networks with industry-standard frameworks.</description>
-    </item>
-    
-    <item>
-      <title>GPT-J</title>
-      <link></link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>GPT-J-6B, a 6 billion parameter model trained on the Pile, is now available for use with our new codebase, Mesh Transformer JAX.</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link></link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>We believe the creation and open source release of a large language model is a net good to AI safety. We explain why.</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link></link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>Rotary Positional Embedding (RoPE) is a new type of position encoding that unifies absolute and relative approaches. We put it to the test.</description>
-    </item>
-    
-    <item>
-      <title>GPT-Neo</title>
-      <link></link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>GPT-Neo 1.3B and 2.7B are now available on Hugging Face Model Hub! Run the models with Transformers or call for them through their on-demand Inference API.</description>
-    </item>
-    
-    <item>
-      <title>GPT-Neo</title>
-      <link></link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>GPT-Neo 1.3B and 2.7B, trained on the Pile, are now available to run with the GPT-Neo framework.</description>
-    </item>
-    
-    <item>
-      <title>The Pile</title>
-      <link></link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>We are proud to announce the release of the Pile, a free and publicly available 825GB dataset of diverse English text for language modeling!</description>
     </item>
     
     <item>

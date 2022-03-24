@@ -6,7 +6,7 @@ cover:
     relative: True
 hideMeta: True
 status: "Completed"
-domain: ["Image synthasis/generation", "Disord Bot"]
+domain: ["Disord Bot"]
 deliverables: ["Code"]
 description: A complex, multipurpose AI Discord bot.
 ---
