@@ -5,7 +5,7 @@ cover:
     image: 22.png
     relative: True
 hideMeta: True
-status: "In Development"
+status: "In Progress"
 domain: ["Language Modeling"]
 deliverables: ["Code"]
 description: A free and publicly available framework to test autoregressive language models
