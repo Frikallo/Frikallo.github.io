@@ -19,17 +19,21 @@
   </url><url>
     <loc>https://frikallo.github.io/projects/alphafold2/</loc>
   </url><url>
-    <loc>https://frikallo.github.io/projects/yakbot/</loc>
-  </url><url>
     <loc>https://frikallo.github.io/domain/bio-ml/</loc>
   </url><url>
     <loc>https://frikallo.github.io/categories/</loc>
   </url><url>
     <loc>https://frikallo.github.io/deliverables/code/</loc>
   </url><url>
+    <loc>https://frikallo.github.io/status/completed/</loc>
+  </url><url>
     <loc>https://frikallo.github.io/deliverables/</loc>
   </url><url>
+    <loc>https://frikallo.github.io/domain/disord-bot/</loc>
+  </url><url>
     <loc>https://frikallo.github.io/domain/</loc>
+  </url><url>
+    <loc>https://frikallo.github.io/domain/image-synthasis/generation/</loc>
   </url><url>
     <loc>https://frikallo.github.io/status/in-progress/</loc>
   </url><url>
@@ -40,5 +44,7 @@
     <loc>https://frikallo.github.io/status/</loc>
   </url><url>
     <loc>https://frikallo.github.io/tags/</loc>
+  </url><url>
+    <loc>https://frikallo.github.io/projects/yakbot/</loc>
   </url>
 </urlset>

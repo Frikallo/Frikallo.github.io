@@ -16,12 +16,12 @@
     </item>
     
     <item>
-      <title>AlphaFold2 Replication</title>
+      <title>YAKbot</title>
       <link>https://frikallo.github.io/projects/yakbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://frikallo.github.io/projects/yakbot/</guid>
-      <description>A replication of AlphaFold2 architecture (very accurate protein structure prediction model) with a free licensing.</description>
+      <description>A complex, multipurpose AI Discord bot.</description>
     </item>
     
   </channel>
