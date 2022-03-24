@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bio ML on AetherAI</title>
-    <link>https://aetherai.xyz/domain/bio-ml/</link>
+    <link>https://frikallo.github.io/domain/bio-ml/</link>
     <description>Recent content in Bio ML on AetherAI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aetherai.xyz/domain/bio-ml/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://frikallo.github.io/domain/bio-ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AlphaFold2 Replication</title>
-      <link>https://aetherai.xyz/projects/alphafold2/</link>
+      <link>https://frikallo.github.io/projects/alphafold2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/alphafold2/</guid>
+      <guid>https://frikallo.github.io/projects/alphafold2/</guid>
       <description>A replication of AlphaFold2 architecture (very accurate protein structure prediction model) with a free licensing.</description>
     </item>
     
     <item>
       <title>CLASP</title>
-      <link>https://aetherai.xyz/projects/clasp/</link>
+      <link>https://frikallo.github.io/projects/clasp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/clasp/</guid>
+      <guid>https://frikallo.github.io/projects/clasp/</guid>
       <description>A CLIP-like model for amino acid sequence prediction.</description>
     </item>
     

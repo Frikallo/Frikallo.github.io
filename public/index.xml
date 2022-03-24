@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on AetherAI</title>
-    <link>https://aetherai.xyz/</link>
+    <link>https://frikallo.github.io/</link>
     <description>Recent content in Home on AetherAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 11:00:00 -0500</lastBuildDate><atom:link href="https://aetherai.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 11:00:00 -0500</lastBuildDate><atom:link href="https://frikallo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>https://aetherai.xyz/about/</link>
+      <link>https://frikallo.github.io/about/</link>
       <pubDate>Wed, 02 Feb 2022 11:00:00 -0500</pubDate>
       
-      <guid>https://aetherai.xyz/about/</guid>
+      <guid>https://frikallo.github.io/about/</guid>
       <description>EleutherAI (/iˈluθər eɪ. aɪ/) is a decentralized collective of volunteer researchers, engineers, and developers focused on AI alignment, scaling, and open source AI research. Founded in July of 2020, we are most well known for our ongoing efforts to build and open source large language models, but we also do open research in alignment, interpretability, BioML, ML art and many other fields. Our Discord server is open and welcomes contributors!</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>https://aetherai.xyz/faq/</link>
+      <link>https://frikallo.github.io/faq/</link>
       <pubDate>Wed, 02 Feb 2022 11:00:00 -0500</pubDate>
       
-      <guid>https://aetherai.xyz/faq/</guid>
+      <guid>https://frikallo.github.io/faq/</guid>
       <description>The official EleutherAI FAQ, covering every question you probably have about EleutherAI.</description>
     </item>
     
@@ -36,19 +36,19 @@
     
     <item>
       <title>Publications</title>
-      <link>https://aetherai.xyz/publications/</link>
+      <link>https://frikallo.github.io/publications/</link>
       <pubDate>Wed, 02 Feb 2022 11:00:00 -0500</pubDate>
       
-      <guid>https://aetherai.xyz/publications/</guid>
+      <guid>https://frikallo.github.io/publications/</guid>
       <description>A list of EleutherAI-affiliated publications.</description>
     </item>
     
     <item>
       <title>Get Involved</title>
-      <link>https://aetherai.xyz/get-involved/</link>
+      <link>https://frikallo.github.io/get-involved/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://aetherai.xyz/get-involved/</guid>
+      <guid>https://frikallo.github.io/get-involved/</guid>
       <description>Joining EleutherAI is as simple as joining us on Discord and picking a project to contribute to.
 As an independent organization, we are dependent upon donations to power our compute. If you have a very large quantity of compute or compute credits, please contact us directly at contact[at]eleuther.ai
 Contributors are traditionally expected to have at some experience with machine learning and data science. While there is some work for people without that skillset, we are a DL research lab and therefore most work involves writing, training, and inferencing neural networks with industry-standard frameworks.</description>
@@ -110,82 +110,82 @@ Contributors are traditionally expected to have at some experience with machine 
     
     <item>
       <title>AlphaFold2 Replication</title>
-      <link>https://aetherai.xyz/projects/alphafold2/</link>
+      <link>https://frikallo.github.io/projects/alphafold2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/alphafold2/</guid>
+      <guid>https://frikallo.github.io/projects/alphafold2/</guid>
       <description>A replication of AlphaFold2 architecture (very accurate protein structure prediction model) with a free licensing.</description>
     </item>
     
     <item>
       <title>CARP</title>
-      <link>https://aetherai.xyz/projects/carp/</link>
+      <link>https://frikallo.github.io/projects/carp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/carp/</guid>
+      <guid>https://frikallo.github.io/projects/carp/</guid>
       <description>Contrastive learning for story critiques.</description>
     </item>
     
     <item>
       <title>CLASP</title>
-      <link>https://aetherai.xyz/projects/clasp/</link>
+      <link>https://frikallo.github.io/projects/clasp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/clasp/</guid>
+      <guid>https://frikallo.github.io/projects/clasp/</guid>
       <description>A CLIP-like model for amino acid sequence prediction.</description>
     </item>
     
     <item>
       <title>Eval Harness</title>
-      <link>https://aetherai.xyz/projects/lm-eval/</link>
+      <link>https://frikallo.github.io/projects/lm-eval/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/lm-eval/</guid>
+      <guid>https://frikallo.github.io/projects/lm-eval/</guid>
       <description>Github Repo: https://github.com/EleutherAI/lm-evaluation-harness</description>
     </item>
     
     <item>
       <title>GPT-Neo</title>
-      <link>https://aetherai.xyz/projects/gpt-neo/</link>
+      <link>https://frikallo.github.io/projects/gpt-neo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/gpt-neo/</guid>
+      <guid>https://frikallo.github.io/projects/gpt-neo/</guid>
       <description>An implementation of model &amp;amp; data-parallel autoregressive language models with Mesh Tensorflow for distributed TPUs.</description>
     </item>
     
     <item>
       <title>GPT-NeoX</title>
-      <link>https://aetherai.xyz/projects/gpt-neox/</link>
+      <link>https://frikallo.github.io/projects/gpt-neox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/gpt-neox/</guid>
+      <guid>https://frikallo.github.io/projects/gpt-neox/</guid>
       <description>An implementation of 3D-parallel autoregressive language models for distributed GPUs.</description>
     </item>
     
     <item>
       <title>Mesh Transformer JAX</title>
-      <link>https://aetherai.xyz/projects/mesh-transformer-jax/</link>
+      <link>https://frikallo.github.io/projects/mesh-transformer-jax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/mesh-transformer-jax/</guid>
+      <guid>https://frikallo.github.io/projects/mesh-transformer-jax/</guid>
       <description>An implementation of model &amp;amp; data-parallel autoregressive language models with JAX and Haiku for distributed TPUs.</description>
     </item>
     
     <item>
       <title>OpenWebText2</title>
-      <link>https://aetherai.xyz/projects/owt2/</link>
+      <link>https://frikallo.github.io/projects/owt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/owt2/</guid>
+      <guid>https://frikallo.github.io/projects/owt2/</guid>
       <description>An enhanced version of OpenWebTextCorpus.</description>
     </item>
     
     <item>
       <title>The Pile</title>
-      <link>https://aetherai.xyz/projects/pile/</link>
+      <link>https://frikallo.github.io/projects/pile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherai.xyz/projects/pile/</guid>
+      <guid>https://frikallo.github.io/projects/pile/</guid>
       <description>A large, diverse, open-source language modelling dataset.</description>
     </item>
     
