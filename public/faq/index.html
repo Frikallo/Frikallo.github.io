@@ -169,9 +169,7 @@ if (!doNotTrack) {
                 <li>
                     <a href="#general" aria-label="General">General</a></li>
                 <li>
-                    <a href="#large-language-models" aria-label="Large Language Models">Large Language Models</a></li>
-                <li>
-                    <a href="#the-pile" aria-label="The Pile">The Pile</a>
+                    <a href="#large-language-models" aria-label="Large Language Models">Large Language Models</a>
                 </li>
             </ul>
         </div>
@@ -319,40 +317,32 @@ Hey guys lets give OpenAI a run for their money like the good ol&rsquo; days</di
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">journal</span>=<span style="color:#e6db74">{arXiv preprint arXiv:2101.00027}</span>,
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">year</span>=<span style="color:#e6db74">{2020}</span>
 </span></span><span style="display:flex;"><span>}
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">@software</span>{gpt-neo,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">author</span> = <span style="color:#e6db74">{Black, Sid and Gao, Leo and Wang, Phil and Leahy, Connor and Biderman, Stella}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">title</span> = <span style="color:#e6db74">{{GPT-Neo}: Large Scale Autoregressive Language Modeling with Mesh-Tensorflow}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">{http://github.com/eleutherai/gpt-neo}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">version</span> = <span style="color:#e6db74">{1.0}</span>,
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">year</span> = <span style="color:#e6db74">{2021}</span>
-</span></span><span style="display:flex;"><span>}</span></span></code></pre></div></p>
-</dd>
-</dl>
-<h2 id="the-pile">The Pile<a hidden class="anchor" aria-hidden="true" href="#the-pile">#</a></h2>
-<dl class="qa">
-<dt class="question">What is the Pile? What is in it?</dt>
-<dd class="answer">
-<p>The Pile is a 825 GiB diverse, open source language modeling dataset that consists of 22 smaller, high-quality datasets combined together. For more information, please read the <a href="https://arxiv.org/abs/2101.00027">paper</a> or the <a href="https://arxiv.org/abs/2201.07311">datasheet</a> on arXiv.</p>
-</dd>
-<dt class="question">Who can use the Pile?</dt>
-<dd class="answer">
-<p>The Pile was primarily designed for researchers training large-scale language models. It also may be of interest to other researchers interested in topics such as bias, online discourse, and text compression.</p>
-</dd>
-<dt class="question">Where can I get the Pile?</dt>
-<dd class="answer">
-<p><a href="https://the-eye.eu/public/AI/pile/">The data can be downloaded here</a>.</p>
-</dd>
-<dt class="question">Can I add something to the Pile?</dt>
-<dd class="answer">
-<p>Pile v1 is finalized and is no longer accepting contributions.</p>
-</dd>
-<dt class="question">Have you considered adding Discord logs?</dt>
-<dd class="answer">
-<p>Yes. We decided against it, as there are good privacy reasons Discord users may not expect or want their conversations unwittingly added to a public dataset like this. Collecting such a dataset would most likely also violate <a href="https://discord.com/terms">Discord&rsquo;s ToS</a>. In general, more trouble than they&rsquo;re worth.</p>
-</dd>
-<dt class="question">Can I make my own version of the Pile?</dt>
-<dd class="answer">
-<p>Of course! For just this reason, all of the components and the Pile creation process are reproducible. <a href="https://github.com/EleutherAI/the-pile">The code used to create the Pile can be found here.</a> Links to the code for reproducing each component are also available at that repo.</p>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## The Pile</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">What is the Pile? What is in it?</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">: The Pile is a 825 GiB diverse, open source language modeling dataset that consists of 22 smaller, high-quality datasets combined together. For more information, please read the [paper](https://arxiv.org/abs/2101.00027) or the [datasheet](https://arxiv.org/abs/2201.07311) on arXiv.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">Who can use the Pile?</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">: The Pile was primarily designed for researchers training large-scale language models. It also may be of interest to other researchers interested in topics such as bias, online discourse, and text compression.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">Where can I get the Pile?</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">: [The data can be downloaded here](https://the-eye.eu/public/AI/pile/).</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">Can I add something to the Pile?</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">: Pile v1 is finalized and is no longer accepting contributions.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">Have you considered adding Discord logs?</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">: Yes. We decided against it, as there are good privacy reasons Discord users may not expect or want their conversations unwittingly added to a public dataset like this. Collecting such a dataset would most likely also violate [Discord&#39;s ToS](https://discord.com/terms). In general, more trouble than they&#39;re worth.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">Can I make my own version of the Pile?</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">: Of course! For just this reason, all of the components and the Pile creation process are reproducible. [The code used to create the Pile can be found here.](https://github.com/EleutherAI/the-pile) Links to the code for reproducing each component are also available at that repo.</span></span></span></code></pre></div></p>
 </dd>
 </dl>
 
