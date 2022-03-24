@@ -16,12 +16,12 @@
     </item>
     
     <item>
-      <title>CLASP</title>
-      <link>https://frikallo.github.io/projects/clasp/</link>
+      <title>AlphaFold2 Replication</title>
+      <link>https://frikallo.github.io/projects/yakbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://frikallo.github.io/projects/clasp/</guid>
-      <description>A CLIP-like model for amino acid sequence prediction.</description>
+      <guid>https://frikallo.github.io/projects/yakbot/</guid>
+      <description>A replication of AlphaFold2 architecture (very accurate protein structure prediction model) with a free licensing.</description>
     </item>
     
   </channel>

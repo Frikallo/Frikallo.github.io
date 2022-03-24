@@ -16,30 +16,12 @@
     </item>
     
     <item>
-      <title>CLASP</title>
-      <link>https://frikallo.github.io/projects/clasp/</link>
+      <title>AlphaFold2 Replication</title>
+      <link>https://frikallo.github.io/projects/yakbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://frikallo.github.io/projects/clasp/</guid>
-      <description>A CLIP-like model for amino acid sequence prediction.</description>
-    </item>
-    
-    <item>
-      <title>Eval Harness</title>
-      <link>https://frikallo.github.io/projects/lm-eval/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/lm-eval/</guid>
-      <description>Github Repo: https://github.com/EleutherAI/lm-evaluation-harness</description>
-    </item>
-    
-    <item>
-      <title>GPT-NeoX</title>
-      <link>https://frikallo.github.io/projects/gpt-neox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/gpt-neox/</guid>
-      <description>An implementation of 3D-parallel autoregressive language models for distributed GPUs.</description>
+      <guid>https://frikallo.github.io/projects/yakbot/</guid>
+      <description>A replication of AlphaFold2 architecture (very accurate protein structure prediction model) with a free licensing.</description>
     </item>
     
   </channel>

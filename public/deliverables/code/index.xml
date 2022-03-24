@@ -16,57 +16,12 @@
     </item>
     
     <item>
-      <title>CARP</title>
-      <link>https://frikallo.github.io/projects/carp/</link>
+      <title>AlphaFold2 Replication</title>
+      <link>https://frikallo.github.io/projects/yakbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://frikallo.github.io/projects/carp/</guid>
-      <description>Contrastive learning for story critiques.</description>
-    </item>
-    
-    <item>
-      <title>CLASP</title>
-      <link>https://frikallo.github.io/projects/clasp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/clasp/</guid>
-      <description>A CLIP-like model for amino acid sequence prediction.</description>
-    </item>
-    
-    <item>
-      <title>Eval Harness</title>
-      <link>https://frikallo.github.io/projects/lm-eval/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/lm-eval/</guid>
-      <description>Github Repo: https://github.com/EleutherAI/lm-evaluation-harness</description>
-    </item>
-    
-    <item>
-      <title>GPT-Neo</title>
-      <link>https://frikallo.github.io/projects/gpt-neo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/gpt-neo/</guid>
-      <description>An implementation of model &amp;amp; data-parallel autoregressive language models with Mesh Tensorflow for distributed TPUs.</description>
-    </item>
-    
-    <item>
-      <title>GPT-NeoX</title>
-      <link>https://frikallo.github.io/projects/gpt-neox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/gpt-neox/</guid>
-      <description>An implementation of 3D-parallel autoregressive language models for distributed GPUs.</description>
-    </item>
-    
-    <item>
-      <title>Mesh Transformer JAX</title>
-      <link>https://frikallo.github.io/projects/mesh-transformer-jax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://frikallo.github.io/projects/mesh-transformer-jax/</guid>
-      <description>An implementation of model &amp;amp; data-parallel autoregressive language models with JAX and Haiku for distributed TPUs.</description>
+      <guid>https://frikallo.github.io/projects/yakbot/</guid>
+      <description>A replication of AlphaFold2 architecture (very accurate protein structure prediction model) with a free licensing.</description>
     </item>
     
   </channel>
