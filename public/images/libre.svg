@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="libre" viewBox="-1.15470053837925 -1.25 2.30940107675850 2.25">
-    <defs>
-        <path id="bezierTriangle" d="M 0 1 C -1.15470053837925 1, -1.44337567297406 0.5, -0.866025403784439 -0.5 C -0.288675134594813 -1.5, 0.288675134594813 -1.5, 0.866025403784439 -0.5 C 1.44337567297406 0.5, 1.15470053837925 1, 0 1 z" fill="white" shape-rendering="geometric-precision" />
-        <circle id="circle" cx="0" cy="0" r="1" fill="black" shape-rendering="geometric-precision" />
-    </defs>
-    <use id="bT1" href="#bezierTriangle" />
-    <use id="c2" href="#circle" transform="scale(0.965243487740224)" />
-    <use id="bt3" href="#bezierTriangle" transform="scale(-0.74535599249993)" />
-    <use id="c4" href="#circle" transform="scale(0.719450017808709)" />
-    <use id="bT5" href="#bezierTriangle" transform="scale(0.555555555555556)" />
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="300.000000pt" height="278.000000pt" viewBox="0 0 300.000000 278.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+<g transform="translate(0.000000,278.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M2538 2681 c-50 -10 -107 -51 -159 -114 -150 -179 -340 -347 -465
+-410 -101 -51 -264 -107 -361 -123 l-98 -17 -104 27 c-287 74 -404 146 -661
+406 -220 223 -236 233 -359 228 -76 -3 -91 -6 -131 -33 -56 -38 -106 -104
+-121 -158 -7 -25 -9 -86 -7 -148 3 -84 9 -115 28 -153 30 -63 78 -109 149
+-145 53 -27 69 -30 184 -34 l125 -4 139 -65 c77 -36 168 -84 204 -108 126 -86
+258 -231 308 -340 11 -25 39 -106 63 -180 42 -130 43 -139 43 -265 0 -126 -1
+-134 -43 -265 -24 -74 -60 -173 -79 -220 -83 -201 -39 -361 124 -447 32 -17
+85 -36 119 -42 52 -10 70 -9 120 7 143 45 239 146 251 266 7 71 -10 143 -58
+245 -46 97 -84 265 -95 422 -5 79 -2 117 21 239 15 79 36 166 46 193 49 124
+212 313 349 404 82 54 251 136 315 152 22 5 78 13 125 16 199 17 320 79 385
+197 27 48 30 62 30 148 0 80 -4 103 -24 144 -65 130 -222 207 -363 177z"/>
+</g>
 </svg>
