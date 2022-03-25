@@ -31,7 +31,7 @@ googleAnalytics = "G-4SDKJXT0HF"
         name="github"
         url="https://github.com/AetherAI"
     [params.label]
-        icon = ""
+        icon = "/images/libre.svg"
         iconHeight = "48"
     [params.assets]
         disableHLJS = true
