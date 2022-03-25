@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Frikallo/Frikallo.github.io/tree/gh-pages/"
+baseURL = "https://frikallo.github.io/"
 languageName = "English"
 languageCode = "en-us"
 title = "AetherAI"
@@ -15,7 +15,7 @@ googleAnalytics = "G-4SDKJXT0HF"
     sitename = "AetherAI"
     [params.organization]
         name="AetherAI"
-        baseURL="https://github.com/Frikallo/Frikallo.github.io/tree/gh-pages/"
+        baseURL="https://frikallo.github.io/"
         description="A decentralized grassroots collective of volunteer researchers, engineers, and developers focused on AI alignment, scaling, and open source AI research."
         email="contact@aether.ai"
         sameAs=["https://github.com/AetherAI","https://wandb.ai/aetherai","https://huggingface.co/AetherAI"]
