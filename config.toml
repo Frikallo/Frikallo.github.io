@@ -8,8 +8,8 @@ publishDir = "public"
 googleAnalytics = "G-4SDKJXT0HF"
 [params]
     env = "production"
-    logo_image_url="images/eai_logo.png"
-    meta_image="images/meta_image.jpg"
+    logo_image_url=""
+    meta_image=""
     contact_mail="contact@aether.ai"
     site_type="website"
     sitename = "AetherAI"
@@ -31,7 +31,7 @@ googleAnalytics = "G-4SDKJXT0HF"
         name="github"
         url="https://github.com/AetherAI"
     [params.label]
-        icon = "/images/libre.svg"
+        icon = ""
         iconHeight = "48"
     [params.assets]
         disableHLJS = true
