@@ -63,8 +63,8 @@ googleAnalytics = "G-4SDKJXT0HF"
     url = "/faq/"
     weight = 3
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Contributors"
+    url = "/contributors/"
     weight = 4
   [[menu.main]]
     name = "Publications"
