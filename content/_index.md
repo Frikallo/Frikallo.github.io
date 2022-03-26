@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homepage
-promo_title: EleutherAI
+promo_title: AetherAI
 description: "A grassroots collective of researchers working to open source AI research."
 ---
 

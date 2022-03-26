@@ -18,7 +18,7 @@ googleAnalytics = "G-4SDKJXT0HF"
         baseURL="https://aetherai.xyz/"
         description="A decentralized grassroots collective of volunteer researchers, engineers, and developers focused on AI alignment, scaling, and open source AI research."
         email="contact@aether.ai"
-        sameAs=["https://github.com/AetherAI","https://wandb.ai/aetherai","https://huggingface.co/AetherAI"]
+        sameAs=["https://github.com/Frikallo","https://wandb.ai/aetherai","https://huggingface.co/AetherAI"]
         foundingDate="2022-03-24"
         logo="https://eleuther.ai/images/promo.png"
     [params.homeInfoParams]
@@ -26,10 +26,10 @@ googleAnalytics = "G-4SDKJXT0HF"
         Content="A grassroots collective of researchers working to open source AI research."
     [[params.socialIcons]]
         name="discord"
-        url="https://discord.gg/zBGx3azzUn"
+        url="https://discord.gg/7VkE3Kuyqf"
     [[params.socialIcons]]
         name="github"
-        url="https://github.com/AetherAI"
+        url="https://github.com/Frikallo"
     [params.label]
         icon = "/images/libre.svg"
         iconHeight = "48"
