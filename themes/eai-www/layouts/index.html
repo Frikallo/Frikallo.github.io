@@ -6,5 +6,6 @@
 {{ .Render "list-small" }}
 {{ end }}
 {{ with .GetPage "/projects" }}{{ .Render "list-small" }}{{ end }}
+{{ with .GetPage "/contributors" }}{{ .Render "list-small" }}{{ end }}
 
 {{ end }}{{- /* end main */ -}}

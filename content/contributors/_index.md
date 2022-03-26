@@ -1,4 +1,4 @@
 ---
 title: "Contributors"
-description: A listing of AetherAI projects.
+description: A listing of AetherAI members and contributors.
 ---
