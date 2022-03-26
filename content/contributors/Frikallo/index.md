@@ -6,8 +6,6 @@ cover:
     relative: True
 hideMeta: True
 status: "Founder"
-domain: ["Disord Bot"]
-deliverables: ["Code"]
 description: An AI researcher and software developer, Frikallo founded AetherAI in early 2022.
 ---
 
