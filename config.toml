@@ -1,7 +1,7 @@
-baseURL = "https://aetherai.xyz/"
+baseURL = "https://frikallo.github.io/"
 languageName = "English"
 languageCode = "en-us"
-title = "AetherAI"
+title = "Frikallo"
 theme = ["eai-base","eai-www"]
 contentDir = "content"
 publishDir = "public"
@@ -10,26 +10,26 @@ googleAnalytics = "G-4SDKJXT0HF"
     env = "production"
     logo_image_url=""
     meta_image=""
-    contact_mail="contact@aether.ai"
+    contact_mail="contact@frikallo.com"
     site_type="website"
-    sitename = "AetherAI"
+    sitename = "Frikallo"
     [params.organization]
-        name="AetherAI"
-        baseURL="https://aetherai.xyz/"
-        description="A decentralized grassroots collective of volunteer researchers, engineers, and developers focused on AI alignment, scaling, and open source AI research."
-        email="contact@aether.ai"
-        sameAs=["https://github.com/AethrAI","https://wandb.ai/aetherai","https://huggingface.co/AetherAI"]
+        name="Frikallo"
+        baseURL="https://frikallo.github.io/"
+        description="Future Portfolio for Frikallo"
+        email="contact@frikallo.com"
+        sameAs=["https://github.com/Frikallo"]
         foundingDate="2022-03-11"
         logo="https://eleuther.ai/images/promo.png"
     [params.homeInfoParams]
-        Title="AetherAI"
-        Content="A grassroots collective of researchers working to open source AI research."
+        Title="Frikallo"
+        Content="Future Portfolio for Frikallo"
     [[params.socialIcons]]
         name="discord"
         url="https://discord.gg/7VkE3Kuyqf"
     [[params.socialIcons]]
         name="github"
-        url="https://github.com/AethrAI"
+        url="https://github.com/Frikallo"
     [params.label]
         icon = "/images/libre.svg"
         iconHeight = "48"
